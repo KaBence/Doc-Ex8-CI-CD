@@ -1,5 +1,5 @@
 # Fetch the Java
-FROM eclipse-temurin:17-jre
+FROM eclipse-temurin:21-alpine
 
 # Expose port 8080
 EXPOSE 8080
